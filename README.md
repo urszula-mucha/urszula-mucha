@@ -1,5 +1,5 @@
 # About Me:
-Career switcher into junior Python development.<br>Background in design, structured data systems, and process automation.<br>Interested in building clean, practical tools, logic-based systems, and useful software.<br>Focused on Python, automation, validation workflows, and real-world problem solving.
+Background in design, structured data systems, and process automation.<br>Interested in building clean, practical tools, logic-based systems, and useful software.<br>Focused on Python, automation, validation workflows, and real-world problem solving.
 
 
 ## Socials:
