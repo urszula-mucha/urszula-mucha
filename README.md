@@ -1,9 +1,6 @@
 # About Me:
-Background in design, structured data systems, and process automation.<br>Interested in building clean, practical tools, logic-based systems, and useful software.<br>Focused on Python, automation, validation workflows, and real-world problem solving.
-
-
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/urszula-mucha) 
+Finds broken processes and fixes them - with automation, documentation, or both.
+Builds practical Python/Flask tools, browser automation, and structured knowledge systems. AI-assisted where useful, explainable line by line.
 
 # Tech Skills:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
